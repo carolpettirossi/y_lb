@@ -7,7 +7,7 @@
  */
 
 /* Apply to all formatted text fields that may contain CKEditor tables */
-.field-item table,
+.field-branch-hours table,
 .tab-content table,
 .lb-table table,
 .text-formatted table,
@@ -19,7 +19,7 @@
   margin: 1em 0;
 }
 
-.field-item table thead tr,
+.field-branch-hours table thead tr,
 .tab-content table thead tr,
 .lb-table table thead tr,
 .text-formatted table thead tr,
@@ -29,7 +29,7 @@
   border-bottom: 5px solid var(--ylb-color-grey-2, #cccccc);
 }
 
-.field-item table thead tr th,
+.field-branch-hours table thead tr th,
 .tab-content table thead tr th,
 .lb-table table thead tr th,
 .text-formatted table thead tr th,
@@ -43,7 +43,7 @@
 }
 
 @media (min-width: 992px) {
-  .field-item table thead tr th,
+  .field-branch-hours table thead tr th,
   .tab-content table thead tr th,
   .lb-table table thead tr th,
   .text-formatted table thead tr th,
@@ -54,7 +54,7 @@
   }
 }
 
-.field-item table tbody tr,
+.field-branch-hours table tbody tr,
 .tab-content table tbody tr,
 .lb-table table tbody tr,
 .text-formatted table tbody tr,
@@ -63,7 +63,7 @@
   border-bottom: 2px solid var(--ylb-color-light-grey-3, #e0e0e0);
 }
 
-.field-item table tbody tr td,
+.field-branch-hours table tbody tr td,
 .tab-content table tbody tr td,
 .lb-table table tbody tr td,
 .text-formatted table tbody tr td,
